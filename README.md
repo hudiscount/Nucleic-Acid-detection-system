@@ -1,4 +1,5 @@
 # Nucleic-Acid-detection-system
+### 用配置好C/C++环境的Visual Studio 打开项目中的  核酸检测系统.sln 文件即可，或者新建项目复制源码和相关文件，跑出来也是可以的。
 ### 核酸检测系统
 ### 主要功能实现
 
